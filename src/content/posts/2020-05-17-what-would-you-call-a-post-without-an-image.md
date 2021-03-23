@@ -1,9 +1,19 @@
 ---
 template: blog-post
-title: Plant on my desk is a friend
-slug: /post-no-image
-date: 2020-05-11 08:40
-description: Post with no image
-featuredImage: /assets/annie-spratt-hx_hf2lppuu-unsplash.jpg
+title: Inauguration Ceremony
+slug: /inauguration-ceremony
+date: 2021-01-24 11:40
+description: ಇಂದು ಹನೂರು ಪಟ್ಟಣದಲ್ಲಿ ಮಾನಸ ಫೌಂಡೇಷನ್(ರಿ) ನೂತನ ಕಚೇರಿಯನ್ನು ಪ್ರಾರಂಭಿಸಲಾಯಿತು
+featuredImage: /assets/inu1.jpeg
 ---
-Hello i am post without an image
+
+## ಇಂದು ಹನೂರು ಪಟ್ಟಣದಲ್ಲಿ ಮಾನಸ ಫೌಂಡೇಷನ್(ರಿ) ನೂತನ ಕಚೇರಿಯನ್ನು ಪ್ರಾರಂಭಿಸಲಾಯಿತು
+
+![Manasa Foundation](/assets/inu2.jpeg "Manasa Foundation")
+
+![Manasa Foundation](/assets/inu3.jpeg "Manasa Foundation ")
+
+![Manasa Foundation](/assets/inu4.jpeg "Manasa Foundation")
+
+![Manasa Foundation](/assets/inu5.jpeg "Manasa Foundation")
+![Manasa Foundation](/assets/inu6.jpeg "Banner")

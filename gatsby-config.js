@@ -37,6 +37,16 @@ module.exports = {
         gfm: true,
         plugins: [
           netlifyCmsPaths,
+          {
+            resolve: "gatsby-transformer-remark",
+            options: {
+              loop: true,
+
+              plugins: ["gatsby-remark-lottie"],
+              autoplay: true,
+            },
+          },
+
           `gatsby-remark-reading-time`,
           {
             resolve: `gatsby-remark-images`,
@@ -68,7 +78,7 @@ module.exports = {
     },
     `gatsby-plugin-sass`,
     `gatsby-plugin-react-helmet`,
-    'gatsby-plugin-theme-ui',
+    "gatsby-plugin-theme-ui",
     `gatsby-plugin-netlify-cms`,
     {
       resolve: `gatsby-plugin-google-analytics`,
@@ -89,6 +99,6 @@ module.exports = {
         icon: "static" + settings.meta.iconimage,
       },
     },
-    'gatsby-plugin-offline',
+    "gatsby-plugin-offline",
   ],
 }

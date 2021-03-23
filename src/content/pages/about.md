@@ -1,50 +1,82 @@
 ---
 template: about-page
 slug: /about
-title: About Foundation
+title: About Manasa Foundation
 ---
-Thank you! Now say "nuclear wessels"! No! Don't jump! A sexy mistake. Anyone who laughs is a communist!
 
-A true inspiration for the children. And when we woke up, we had these bodies. Moving along… Do a flip! Michelle, I don't regret this, but I bth rue and lament it.
+Manasa Educational Trust ®, created more than two decades ago, has committed itself to provide quality and affordable education, particularly to the under privileged and the marginalized sections of the society. Over the years the trust has set up schools and colleges providing education right from Pre-primary level to under graduate level. Over this period thousands of students have passed out of these institutions with flying colours. Many of our alumni have achieved great success in their academic as well as professional endeavours.
 
-![Toys](/assets/vanessa-bucceri-gdirwiyama8-unsplash.jpg "Toys")
+Manasa Foundation has been established to support the underprivileged sections of the society. The Foundation is a not-for-profit initiative aimed at creating opportunities for achieving a more equitable society. Manasa Foundation is based on four pillars: Education, Healthcare, Rural Development, and Arts and Culture. Manasa Foundation takes pride in working with all sections of society without any discrimination.
 
-Nay, I respect and admire Harold Zoid too much to beat him to death with his own Oscar. Well, then good news! It's a suppository. Then we'll go with that data file! **I've been there.** *My folks were always on me to groom myself and wear underpants.* What am I, the pope?
+## Initiatives
 
-Daddy Bender, we're hungry. We can't compete with Mom! Her company is big and evil! Ours is small and neutral! We're rescuing ya. We'll go deliver this crate like professionals, and then we'll go home.
+![]()
+![Healthcare](/assets/healthcare.json "Health Care")
 
-I didn't ask for a completely reasonable excuse! I asked you to get busy! I never loved you. OK, this has gotta stop. I'm going to remind Fry of his humanity the way only a woman can. With a warning label this big, you know they gotta be fun!
+## 1 Healthcare
 
-1. And from now on you're all named Bender Jr.
-2. Ah, computer dating. It's like pimping, but you rarely have to use the phrase "upside your head."
-3. You wouldn't. Ask anyway!
+Health is considered one of the most important aspects of human life. A healthy society is a prerequisite for the overall development of any country. Manasa Foundation intends to play a role in creating a healthy society. Its Healthcare initiative consists:
 
-Bender, quit destroying the universe! No! The cat shelter's on to me. Enough about your promiscuous mother, Hermes! We have bigger problems. Fatal. I guess if you want children beaten, you have to do it yourself.
+- Providing access to primary healthcare
 
-I decline the title of Iron Cook and accept the lesser title of Zinc Saucier, which I just made up. Uhh… also, comes with double prize money. You mean while I'm sleeping in it? I don't want to be rescued.
+- Creating awareness about basic hygiene
 
-* You know the worst thing about being a slave? They make you work, but they don't pay you or let you go.
-* And when we woke up, we had these bodies.
-* Spare me your space age technobabble, Attila the Hun!
+- Extending helping hand in the treatment of underprivileged patients.
 
-Hi, I'm a naughty nurse, and I really need someone to talk to. $9.95 a minute. But, like most politicians, he promised more than he could deliver. I don't know what you did, Fry, but once again, you screwed up! Now all the planets are gonna start cracking wise about our mamas.
+- Educating and eradicating Leprosy.
 
-You mean while I'm sleeping in it? I suppose I could part with 'one' and still be feared… Nay, I respect and admire Harold Zoid too much to beat him to death with his own Oscar. Negative, bossy meat creature!
+- Providing medical assistance to the poor by organizing Health checkup camps, Blood Donation Camps, facilitating ambulance service and so on.
 
-Oh God, what have I done? I don't 'need' to drink. I can quit anytime I want! Bender! Ship! Stop bickering or I'm going to come back there and change your opinions manually! Wow! A superpowers drug you can just rub onto your skin? You'd think it would be something you'd have to freebase.
+- Creating awareness about Reproductive Health as well as about HIV/AIDS
 
-Ask her how her day was. In our darkest hour, we can stand erect, with proud upthrust bosoms. Why did you bring us here? I don't know what you did, Fry, but once again, you screwed up! Now all the planets are gonna start cracking wise about our mamas.
+![Education](/assets/education.json "Education")
 
-Good news, everyone! I've taught the toaster to feel love! This opera's as lousy as it is brilliant! Your lyrics lack subtlety. You can't just have your characters announce how they feel. That makes me feel angry!
+## 2 Education
 
-Hello Morbo, how's the family? You won't have time for sleeping, soldier, not with all the bed making you'll be doing. Oh Leela! You're the only person I could turn to; you're the only person who ever loved me.
+Manasa Foundation firmly believes that “Education leads to Empowerment”. Foundation’s mother concern, Manasa Educational Trust has already been providing quality and affordable education right from the pre-primary level up to and including undergraduate level for more than two decades. Manasa Foundation’s Education initiatives will be:
 
-My fellow Earthicans, as I have explained in my book 'Earth in the Balance'', and the much more popular ''Harry Potter and the Balance of Earth', we need to defend our planet against pollution. Also dark wizards. Incidentally, you have a dime up your nose.
+- Providing financial and material assistance to poor and needy students by providing scholarships, hostel facilities etc.
 
-You are the last hope of the universe. You know the worst thing about being a slave? They make you work, but they don't pay you or let you go. I meant 'physically'. Look, perhaps you could let me work for a little food? I could clean the floors or paint a fence, or service you sexually?
+- Facilitating livelihood/vocational trainings and organizing Job Melas.
 
-Hey, guess what you're accessories to. I feel like I was mauled by Jesus. Why would a robot need to drink? What are their names? Fry! Quit doing the right thing, you jerk! Doomsday device? Ah, now the ball's in Farnsworth's court!
+- Organising various types of educational programmes, workshops and competitions to enhance skill in the students.
 
-I saw you with those two "ladies of the evening" at Elzars. Explain that. Shinier than yours, meatbag. That's the ONLY thing about being a slave. Um, is this the boring, peaceful kind of taking to the streets?
+- Enhancing computer literacy in students and teachers in the rural areas.
 
-Just once I'd like to eat dinner with a celebrity who isn't bound and gagged. Daddy Bender, we're hungry. Kids don't turn rotten just from watching TV. I just want to talk. It has nothing to do with mating. Fry, that doesn't make sense.
+- “Vidya Poshak” programme offering financial assistance to poor meritorious students.
+
+- Taking initiatives to lessen dropout rate in schools.
+
+![Rural Development](/assets/village.json "Rural Development")
+
+## 3 Rural Development
+
+Manasa Foundation is of the view that India being the land of villages, unless the development of rural areas takes place, it will not be possible to achieve national development. Our are and ambit of Rural Development includes:
+
+- Reliefs during floods and other natural calamities.
+
+- Supporting orphanages and destitute homes.
+
+- Constructing toilets in the rural areas.
+
+- Constructing roads and drainage system in the rural areas.
+
+- Rehabilitation of victims of natural calamities.
+
+- Providing monetary and humanitarian services during natural calamities.
+
+- Facilitating social amenities in rural areas such as drinking water facility, individual toilets, community harvesting grounds, public libraries, village tanks/lakes etc.
+
+- To assist in Swatch Bharath Abhiyan.
+
+![Art and Culture](/assets/art.json "Art and Culture")
+
+## 4 Art and Culture
+
+India is a land of diverse arts and cultures. Manasa Foundation will strive to uphold the great cultural heritage of India. The following aspects are included in this dimension:
+
+- Promoting traditional art, dance and craft.
+
+- Identifying under privileged artists including writers, painters, poets, musicians etc from different walks of life.
+
+- Assisting the artists by promoting their art and also by providing financial assistance.

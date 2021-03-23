@@ -1,9 +1,19 @@
 ---
 template: blog-post
-title: Extreme gaming extravaganza
-slug: /gaming-extravaganza
-date: 2020-05-13 12:55
-description: How we scaled an Extreme gaming extravaganza
-featuredImage: /assets/fredrick-tendong-hvyepjyehdq-unsplash.jpg
+title: Inauguration Ceremony
+slug: /inauguration-ceremony
+date: 2021-01-24 11:40
+description: ಇಂದು ಹನೂರು ಪಟ್ಟಣದಲ್ಲಿ ಮಾನಸ ಫೌಂಡೇಷನ್(ರಿ) ನೂತನ ಕಚೇರಿಯನ್ನು ಪ್ರಾರಂಭಿಸಲಾಯಿತು
+featuredImage: /assets/inu1.jpeg
 ---
-My Pretty White ShoesMy Pretty White ShoesMy Pretty White ShoesMy Pretty White ShoesMy Pretty White ShoesMy Pretty White ShoesMy Pretty White Shoes
+
+## ಇಂದು ಹನೂರು ಪಟ್ಟಣದಲ್ಲಿ ಮಾನಸ ಫೌಂಡೇಷನ್(ರಿ) ನೂತನ ಕಚೇರಿಯನ್ನು ಪ್ರಾರಂಭಿಸಲಾಯಿತು
+
+![Manasa Foundation](/assets/inu2.jpeg "Manasa Foundation")
+
+![Manasa Foundation](/assets/inu3.jpeg "Manasa Foundation ")
+
+![Manasa Foundation](/assets/inu4.jpeg "Manasa Foundation")
+
+![Manasa Foundation](/assets/inu5.jpeg "Manasa Foundation")
+![Manasa Foundation](/assets/inu6.jpeg "Banner")

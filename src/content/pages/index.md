@@ -1,11 +1,12 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Manasa Foundation
+tagline: Rural Development Art Culture Education Health
+featuredImage: /assets/logo.png
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+
+Manasa Foundation has been established to support the underprivileged sections of the society. The Foundation is a not-for-profit initiative aimed at creating opportunities for achieving a more equitable society.
