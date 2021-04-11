@@ -10,8 +10,6 @@ Manasa Foundation has been established to support the underprivileged sections o
 
 ## Initiatives
 
-![]()
-![Healthcare](/assets/healthcare.json "Health Care")
 
 ## 1 Healthcare
 
