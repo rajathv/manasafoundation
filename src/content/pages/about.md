@@ -27,7 +27,7 @@ Health is considered one of the most important aspects of human life. A healthy 
 
 - Creating awareness about Reproductive Health as well as about HIV/AIDS
 
-![Education](/assets/education.json "Education")
+
 
 ## 2 Education
 
@@ -45,7 +45,7 @@ Manasa Foundation firmly believes that “Education leads to Empowerment”. Fou
 
 - Taking initiatives to lessen dropout rate in schools.
 
-![Rural Development](/assets/village.json "Rural Development")
+
 
 ## 3 Rural Development
 
@@ -67,7 +67,7 @@ Manasa Foundation is of the view that India being the land of villages, unless t
 
 - To assist in Swatch Bharath Abhiyan.
 
-![Art and Culture](/assets/art.json "Art and Culture")
+
 
 ## 4 Art and Culture
 
