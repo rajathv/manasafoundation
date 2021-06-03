@@ -5,6 +5,7 @@ slug: /news-kannada
 date: 2021-06-03 18:22
 description: Kannada newspaper articles about manasafoundation distributing
   masks and waterbottles by Dr. Dattesh Kumar
+featuredImage: /assets/n1.jpeg
 ---
 ![](/assets/n1.jpeg)
 
